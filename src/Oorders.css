@@ -1,0 +1,78 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #232F3E;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .header-links a {
+    margin-right: 20px;
+    text-decoration: none;
+  }
+  
+  .content {
+    padding: 20px;
+    background-color: white;
+
+  }
+  
+  h2 {
+    color: green;
+  }
+  
+  .order-details {
+    padding-top: 10px;
+    margin-top: 10px;
+  }
+  
+  .order-number {
+    font-weight: bold;
+  }
+  
+  .delivery-date {
+    color: #b12704;
+    font-weight: bold;
+  }
+  
+  .actions {
+    margin-top: 20px;
+  }
+  
+  .action-link {
+    display: block;
+    color: #0073bb;
+    margin-bottom: 10px;
+    text-decoration: none;
+  }
+  .log>h1{
+    width: 300px;
+    height: fit-content;
+    display: flex;
+    border-radius: 5px;
+    padding: 20px;
+    margin-right: auto;
+    margin-left:550px;
+  }
+  .b{
+    background:#f0c14b;
+    border-radius: 2px;
+    border-color: #a88734 #9c7e31 #846a29;
+    margin-top: 10px;
+    border: 1px solid;
+    
+    height: 30px;
+    width: 20%;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+    display: flex;
+  justify-content: center; 
+  align-items: center;
+  font-weight: bold;
+font-size: large;
+  }
